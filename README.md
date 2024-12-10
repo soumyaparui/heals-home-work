@@ -1,7 +1,8 @@
-# heals-home-work
-User Story
+# Create a Terraform Kubernetes Python App
+## User Story
 Create a Terraform, Kubernetes, and a Hello World Python app. 
-Definition of Done
+
+## Definition of Done
 •Terraform Configurations for:
 ◦AWS Provider setup.
 ◦EKS.
